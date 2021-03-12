@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import "../project_main/style.css";
 import { Col, Card, Row } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faImages, faLink } from "@fortawesome/free-solid-svg-icons";
+import { faLink } from "@fortawesome/free-solid-svg-icons";
 import info from "../../const/project_info.json";
-import Lightbox from "react-image-lightbox";
+// import Lightbox from "react-image-lightbox";
 
 export default class PM extends Component {
   constructor(props) {
