@@ -1,6 +1,6 @@
 ## Sepehr Sobhani Portfolio
 
-Live preview :
+Live preview : https://sepehr-sobhani.netlify.app/home
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 
